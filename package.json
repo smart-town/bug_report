@@ -1,0 +1,23 @@
+{
+  "name": "bug_report",
+  "version": "1.0.0",
+  "description": "a repo for reproduce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress-vite dev docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-town/bug_report.git"
+  },
+  "author": "smalltown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smart-town/bug_report/issues"
+  },
+  "homepage": "https://github.com/smart-town/bug_report#readme",
+  "devDependencies": {
+    "vuepress-vite": "^2.0.0-beta.27"
+  }
+}
