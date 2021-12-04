@@ -1,6 +1,6 @@
-# Linux 安全小查
+# linux_secure_check
 
-## 查看网络连接
+## see net
 
 - `netstat -ntu`: 查看当前所建立的网络连接情况
 
